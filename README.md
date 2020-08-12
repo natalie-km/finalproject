@@ -1,6 +1,6 @@
-# final project for Natalie Keltner-McNeil
+# COVID High Risk Individuals, Hospital Beds and ICUs Across the United States
 
-Here is some text. And I want to create a [link] (https://wikipedia.org).
+Here is some text. And I want to create a [link](https://wikipedia.org).
 
 
 
