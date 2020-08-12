@@ -26,5 +26,3 @@ Following that chart, I made a split bar [chart](https://datawrapper.dwcdn.net/A
 ![Split Bar chart ICU beds and hospital beds per region](https://media.journalism.berkeley.edu/upload/2020/08/15972072854b48cc0.png)
 
 In general, I was surprised at how many U.S regions had majority populations of high risk individuals. This provides further context into why total deaths from COVID are so high in the United States; we are an aging population and have many chronic illnesses. It would have been interesting to include race and income in this data, to see if hospital and ICU count correlates with either of those two social determinants of health.
-
-
